@@ -1,3 +1,7 @@
+# binary search is an algo used to search through a sorted list of items
+# supposed you are given an unsorted list, you would need to sort it before
+# binary search runs in log time 0(logn)
+
 def binary_search(list, item):
     low = 0
     high = len(list) - 1
