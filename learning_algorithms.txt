@@ -1,0 +1,6 @@
+Today 5 Feb 2023 was the first meeting for the algorithms.
+
+A study-group was initiated by Moses Wuniche Alhassan in the DevCongress slack community called #grokking-algorithms-study-group
+
+I will be updating whatever I learn in this study group in this repo. 
+
